@@ -1,12 +1,13 @@
 body {
+    background-color: #f5f5f5;
     font-family: Arial;
     margin: 20px;
 }
 
 .news {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
 }
 
 img {
-    width: 300px;
+    width: 250px;
 }
